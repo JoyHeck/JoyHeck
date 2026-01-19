@@ -30,7 +30,7 @@ Passionate about building web projects and improving problem-solving skills.
 
 **Tools**
 
-  • Frontend: HTML, CSS, JavaScript, Tailwind
+  • Frontend: HTML, CSS, JavaScript, TailwindCSS
   
   • Backend: Node.js, Express.js
 
