@@ -15,26 +15,34 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Joy
+I'm **Joy**
 
 A Final-year Engineering student focused on Web Development and Software Engineering.
 Passionate about building web projects and improving problem-solving skills.
 
-Currently
+**Currently**
 
-  Learning DSA and strengthening core CS concepts
+  • Learning DSA and strengthening core CS concepts
   
-  Creating Projects
+  • Creating Projects
   
-  Exploring Backend with Node.js
+  • Exploring Backend with Node.js
 
-Tools
+**Tools**
 
-  Frontend: HTML, CSS, JavaScript, Tailwind
+  • Frontend: HTML, CSS, JavaScript, Tailwind
   
-  Backend: Node.js
+  • Backend: Node.js, Express.js
+
+  • Databases: MongoDB
   
-  Other: Git, GitHub, VS Code, SEO
+  • Other: Git, GitHub, VS Code, SEO, ChatGPT, Google Gemini, Ollama
+
+
+
+  
+
+
   
   
   
